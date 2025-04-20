@@ -19,11 +19,13 @@ Add buttons to create another page with visuals for Best/Worst Pizza
 
 
 ## Pizza Sales Overview Report
-![Uploading Home.png…]()
+
+![Home](https://github.com/user-attachments/assets/ac0fc819-7125-4b4a-822a-d377c8e3335f)
 
 ## Pizza Sales Overview Report based on Best/Worst Sellers
 
-![Uploading Best_worst.png…]()
+![Best_worst](https://github.com/user-attachments/assets/3fd62628-6fa6-4194-97f5-6dce8a879fe4)
+
 
 ## Summary
 
