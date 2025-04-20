@@ -18,9 +18,9 @@ Add Card chart, Area chart, Donut chart, Bar chart, Map etc
 Add buttons to create another page with visuals for Best/Worst Pizza
 
 
-## Pizza Sales Overview REPORT
+## Pizza Sales Overview Report
 
-## Pizza Sales Overview REPORT based on Best/Worst Sellers
+## Pizza Sales Overview Report based on Best/Worst Sellers
 
 
 ## Summary
