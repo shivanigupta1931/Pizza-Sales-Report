@@ -1,4 +1,4 @@
- Pizza Sales Dashboard in Power BI! 🍕📊
+ ## Pizza Sales Dashboard in Power BI! 🍕📊
 
 The "Pizza Sales Dashboard" provides an interactive and comprehensive overview of our pizza sales data, delivering key insights to guide decision-making and business growth. Utilizing data from sources like Excel and SQL, this dynamic dashboard enables users to analyze sales patterns over a defined date range. It highlights the top-performing and least popular pizzas while tracking essential KPIs, such as total revenue, total orders, average order value, and the average number of pizzas sold per order.
 
